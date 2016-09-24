@@ -1,0 +1,40 @@
+/*全部字型:arial*/
+
+* {
+    font-family: arial
+}
+
+
+/*h1字:藍色;大小50;粗體;置中*/
+
+h1 {
+    color: blue;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center
+}
+
+
+/*個人資料置中*/
+
+p {
+    text-align: center
+}
+
+
+/*h2~5字:藍色;大小10;粗體*/
+
+h2,
+h3 {
+    color: saddlebrown;
+    font-size: 10px;
+    font-weight: bold
+}
+
+.title {
+    color:darkgreen;font-style: oblique;font-size: 30
+}
+
+.item {font-weight: bolder
+    
+}

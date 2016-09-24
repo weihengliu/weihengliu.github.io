@@ -1,0 +1,100 @@
+/*手機外框*/
+
+.frame {
+    position: relative;
+    width: 250px;
+    height: 500px;
+    border: 3px solid #999;
+    border-radius: 45px;
+    margin: 0 auto;
+}
+
+/*最上面圓圈1*/
+.circle-1 {
+    position: absolute;
+    top: 12px;
+    left: 114px;
+    width: 6px;
+    height: 6px;
+    border-radius: 6px;
+    background-color: black;
+}
+/*圓圈2*/
+.circle-2 {
+    position: absolute;
+    top: 30px;
+    left: 60px;
+    width: 10px;
+    height: 10px;
+    border-radius: 10px;
+    background-color: black
+}
+
+/*橫線*/
+.line {
+    position: absolute;
+    top: 33px;
+    left: 90px;
+    width: 60px;
+    height: 4px;
+    background-color: black;
+}
+
+/*螢幕*/
+.screen {
+    position: absolute;
+    top: 60px;
+    left: 8px;
+    width: 230px;
+    height: 380px;
+    background-color: black;
+}
+
+/*螢幕下的按鈕*/
+.circle-3 {
+    position: absolute;
+    top: 390px;
+    left: 94px;
+    width: 40px;
+    height: 40px;
+    border: 2px solid #999;
+    border-radius: 40px;
+    background-color: white
+}
+
+/*左右兩邊按鈕的共同設定*/
+[class*="button"] {
+    position: absolute;
+    border: 1px solid #999;
+    border-radius: 5px;
+    width: 6px;
+    background-color: #999;
+}
+
+/*左上按鈕1*/
+.button-1 {
+    height: 20px;
+    top: 60px;
+    left: -6px;
+}
+
+/*左中按鈕2*/
+.button-2 {
+    height: 30px;
+    top: 95px;
+    left: -6px;
+}
+
+/*左下按鈕3*/
+.button-3 {
+    height: 30px;
+    top: 130px;
+    left: -6px;
+}
+
+/*右邊的按鈕*/
+.button-4 {
+    height: 30px;
+    top: 95px;
+    left: 245px;
+}

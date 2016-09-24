@@ -1,0 +1,170 @@
+/*導覽列*/
+
+.nav {
+    height: 40px;
+    background-color: black;
+    color: white;
+    line-height: 40px;
+    padding-left: 600px;
+}
+
+li+a {
+    display: block;
+    width: 100px;
+    height: 50px;
+    list-style: none;
+    line-height: 50px;
+    text-align: center;
+}
+
+ul {}
+
+li {
+    display: inline-block;
+    margin: 0 20px;
+}
+
+
+/*頁首*/
+
+.header {
+    height: 400px;
+    background-image: url(../images/slider-image-blurry.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.header h1 {
+    font-size: 25px;
+    color: white;
+    background-color: palevioletred;
+    width: 250px;
+}
+
+.article {
+    width: 400px;
+    position: relative;
+    top: 250px;
+    left: 250px;
+}
+
+.p p1 {
+    color: white;
+}
+
+.p {
+    background-color: gray
+}
+
+
+/*區塊1*/
+
+.section-1 {
+    height: 80px;
+    text-align: center;
+    line-height: 80px;
+}
+
+.section-1 h1 {
+    float: left;
+    font-size: 20px;
+    color: palevioletred;
+    position: relative;
+    left: 250px;
+}
+
+.link-1 {
+    display: inline-block;
+    width: 160px;
+    height: 40px;
+    border: 2px solid #db7093;
+    line-height: 40px;
+    text-align: center;
+    font-size: 16px;
+    color: black;
+}
+
+
+/*文章背景區塊*/
+
+.container {
+    height: 2300px;
+    background-color: gainsboro;
+}
+
+
+/*左欄*/
+
+.left {
+    float: left;
+    width: 60%;
+}
+
+.post-1 {
+    height: 700px;
+    margin: 5% 10%;
+    background-color: white;
+}
+
+img {
+    width: 100%
+}
+
+.article-1 p1 {
+    display: block;
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+.article-1 {
+    display: inline-block;
+    float: left;
+    width: 550px;
+    line-height: 26px;
+    text-align: left;
+    margin-left: 50px;
+}
+
+.article-1 h1 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.link-2 {
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 400px;
+    width: 160px;
+    height: 40px;
+    border: 2px solid #db7093;
+    line-height: 40px;
+    text-align: center;
+    font-size: 16px;
+    color: white;
+    background: #db7093
+}
+
+.section-right {
+    margin-top: 40px;
+    width: 400px;
+    height: 2000px;
+    background-color: white;
+    padding: 15px 15px;
+}
+
+
+/*右欄*/
+
+.right {
+    float: left;
+    width: 40%;
+}
+
+
+/*頁尾*/
+
+.footer {
+    height: 300px;
+    background-color: black;
+}

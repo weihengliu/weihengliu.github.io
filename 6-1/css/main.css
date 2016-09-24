@@ -1,0 +1,253 @@
+[class^="col-"]{
+}
+
+.article .container {
+    width:80%;
+    padding-top: 40px;
+}
+.article {
+    background-color: lightgray;
+}
+
+
+.jumbotron {
+    background-image:url(../images/slider-image-blurry.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 250px;
+    padding-left: 200px;
+    height:500px;
+    margin:0 auto;
+}
+
+.jumbotron h1, .jumbotron p {
+    color:white;
+}
+
+.jumbotron h1 {
+    background-color: palevioletred;
+    font-size: 20px;
+    width:20%;
+    padding:6px;
+    text-align: center;
+}
+
+.jumbotron p {
+    background-color: dimgray;
+    font-size: 18px;
+    width:40%;
+    text-align: left;
+    padding:16px;
+    
+}
+
+
+
+
+
+.title {
+    height:80px;
+    
+}
+
+.title h2 {
+    width:50%;
+    color:palevioletred;
+    font-size: 25px;
+    text-align:center;
+    margin-left: 110px;
+    margin-top:30px;
+    float:left;
+    
+    
+    
+}
+
+.title .btn {
+color:palevioletred;
+border-color: palevioletred;
+width:15%;
+margin-top:20px;
+    
+}
+
+.thumbnail {
+    width:100%;
+}
+
+.article img {
+    width:90%;
+    
+}
+
+.post-1 {
+      width:90%;
+    height:700px;
+    margin: 5%;
+
+}
+
+
+
+
+
+.thumbnail img {
+    width:100%;
+}
+
+
+
+.section-right img {
+    width:15%;
+}
+
+.section-right li {
+    text-align: 
+    list-style: none;
+    line-height: 60px;
+}
+
+.section-right a {
+    color: palevioletred;
+}
+
+.section-right {
+    background-color: white;
+}
+
+
+
+
+
+
+
+.index-1 img {
+    float:left;
+}
+
+.index a {
+    clear:both;
+
+}
+
+.index-1 {
+    display: inline-block;
+    margin:5px;
+}
+
+
+
+footer {
+    background-color: black;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.left-1 {
+    width:90%;
+    height: 85px;
+    margin:0 auto;
+   
+
+}
+
+.left-1 a {
+    color: white;
+    
+    
+
+}
+
+.left-1 img {
+    float:left;
+    
+}
+
+footer h1 {
+    margin:0 auto;
+    width:90%;
+    font-size: 15px;
+    line-height: 50px;
+}
+
+.left-center li {
+    list-style: none;
+    
+}
+
+.left-center a {
+    color: white;
+    line-height: 30px;
+}
+
+.left-center {
+    padding-top: 10px;
+}
+
+
+
+.left-right img {
+    width:20%;
+    padding-top: 10px;
+}
+
+.article .btn-default {
+    margin-left: 76%;
+    width: 20%;
+    border: 2px solid #db7093;
+    line-height: 40px;
+    text-align: center;
+    font-size: 16px;
+    color: white;
+    background: #db7093;
+    border-radius: 5px;
+
+}
+
+.navbar-default {
+ 
+}
+
+.navbar-nav {
+    float:right;
+}
+
+.navbar-default {
+    background-color: black;
+   
+}
+
+
+
+nav li {
+    list-style: none;
+    color:white;
+    margin-left: 40px;
+    
+
+}
+
+nav {
+    background-color: black;
+}
+
+
+
+
+
+nav {
+}

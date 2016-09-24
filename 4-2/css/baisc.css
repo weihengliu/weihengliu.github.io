@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+
+/*基本的標籤 margin padding reset*/
+nav,
+ul,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+body,
+p,
+p1,
+p2,
+div,
+header,
+footer,
+aside,
+section,
+aticle {
+    padding: 0;
+    margin: 0;
+}

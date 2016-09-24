@@ -1,0 +1,17 @@
+/*所有標籤設定*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/*定義基礎的容器*/
+
+.container {
+    width: 90%;
+    margin:0 auto;
+}
+
+
